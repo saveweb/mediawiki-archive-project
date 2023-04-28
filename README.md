@@ -1,1 +1,1 @@
-# zh-mediawiki-archive
+# MediaWiki-Archive-Project
